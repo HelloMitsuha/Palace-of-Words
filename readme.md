@@ -5,4 +5,4 @@
 ## 免责声明
 因这个项目所造成的一切后果由使用者自行承担.
 ## 反馈
-请在[Issues](.../issues)反馈
+请在[Issues](github.com/HelloMitsuha/Palace-of-Words/issues)反馈
